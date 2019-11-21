@@ -1,3 +1,7 @@
+gg.alert("🇧🇷 No dia 26/11/2019 o jogo terá uma atualização, não utilize o script após essa data, pois aplicarei uma nova atualização de proteção no meu cheat.")
+gg.alert("🇪🇦 El 26/11/2019 el juego tendrá una actualización, no use el script después de esta fecha, ya que aplicaré una nueva actualización de protección a mi hack.")
+gg.alert("🇱🇷 On 11/26/2019 the game will have an update, do not use the script after this date, as I will apply a new protection update to my cheat.")
+
 function Decryption(xuanshen,Text)
 
   return (Text:gsub('..', function (xuanshen)
