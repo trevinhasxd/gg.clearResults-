@@ -1,5 +1,5 @@
 gg.alert("🔧HACKER IN MAINTENANCE🛠️")
-
+g g.(" Wait for ATT ThE GAmE "))
 function Decryption(xuanshen,Text)
 
   return (Text:gsub('..', function (xuanshen)
